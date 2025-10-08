@@ -3,7 +3,8 @@
 char *ft_strncpy(char *dest, char *src, unsigned int n)
 {
     int i = 0;
-    while (i < n)
+    
+    while (*src && i < n)
     {
         *dest++ = *src++;
         i++;
