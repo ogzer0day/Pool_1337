@@ -1,4 +1,5 @@
-# 1337 Piscine
+<img src="./1337-Auto-Refresher-Extenstion/logo-png.png">
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sharing My Piscine Journey at 1337 Coding School (42 Network)
 Over the course of a month, I immersed myself in a rigorous and rewarding experience at 1337 Coding School, part of the 42 Network. The focus was on mastering the fundamentals of C language through intense discipline and self-learning.
